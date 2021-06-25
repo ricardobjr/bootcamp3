@@ -13,7 +13,6 @@ import java.util.List;
 @CrossOrigin
 @RestController
 @RequestMapping(value="/stock")
-
 public class StockController {
 
     @Autowired
